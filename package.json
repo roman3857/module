@@ -1,0 +1,20 @@
+{
+  "name": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "scrypt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roman3857/module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roman3857/module/issues"
+  },
+  "homepage": "https://github.com/roman3857/module#readme"
+}
